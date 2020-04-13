@@ -4,15 +4,15 @@ Exemplo de um projeto simples com o Django.
 
 Como rodar o projeto?
 
-Clone esse repositório.
+- Clone esse repositório.
 
-Crie um virtualenv com Python 3.
+- Crie um virtualenv com Python 3.
 
-Ative o virtualenv.
+- Ative o virtualenv.
 
-Instale as dependências.
+- Instale as dependências.
 
-Rode as migrações.
+- Rode as migrações.
 
 
 git clone https://github.com/dvgeo/django-simples.git
